@@ -5,3 +5,4 @@ STEPS:<br/></br>
 1) Clone this repository<br/>
 2) Run the command: npm install<br/>
 3) The above step is done to install the node_modules<br/>
+4) npm start
